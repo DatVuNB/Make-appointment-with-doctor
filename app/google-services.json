@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "631305820563",
+    "firebase_url": "https://appointmentapp-bab29-default-rtdb.firebaseio.com",
+    "project_id": "appointmentapp-bab29",
+    "storage_bucket": "appointmentapp-bab29.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631305820563:android:30ca7dceccf72d80e5b066",
+        "android_client_info": {
+          "package_name": "test.vtd.appointment_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBElUwfAEPiBsWY3HUD3zu8kN9sfgiMb7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
